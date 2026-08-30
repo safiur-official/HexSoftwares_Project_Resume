@@ -55,4 +55,4 @@ To build a professional resume website using only core HTML fundamentals, focusi
 
 ## 👨‍💻 Author
 **SK Safiur Rahaman**  
-Aspiring Software Developer
+Software Engineer
